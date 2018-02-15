@@ -6,6 +6,8 @@ public class ValidKeyword {
 	private String keyword;
 	
 	
-	
+	public ValidKeyword(){
+		
+	}
 
 }
